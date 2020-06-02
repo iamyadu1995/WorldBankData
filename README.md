@@ -33,7 +33,7 @@ Time Taken
    45 mins (30-35 mins during interview + 10 mins)
 2) To achieve all the styling : 15-18 mins
 3) To write the unit test cases including installation and configuration:
-    35-40 mins
+    30-35 mins
   
 
 
