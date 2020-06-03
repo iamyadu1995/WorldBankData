@@ -17,7 +17,7 @@ To execute the assignment:
 6) If default port is busy, then try to run the program in seaparte port.
 7) Then go to the google chrome and type localhost:4200(here 4200 is the default port being used).
 8) we can seee the output.
-9) To run the unit test cases, type ng test in the terminal, we can see the test cases passed in the terminal only or one seaparate tab will open automatically for karma which will show the test cases passed. 
+9) To run the unit test cases, type ng test in the terminal(maybe in the new terminal by clicking on + button on terminal of VS code,so that ng serve doesn't get affected), we can see the test cases passed in the terminal only or one seaparate tab will open automatically for karma which will show the test cases passed. 
 
 Tasks Done
 -----------
