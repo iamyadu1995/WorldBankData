@@ -12,7 +12,7 @@ To execute the assignment:
 1) download the zip and extract it.
 2) Open the code in visual studio.(we can open this by directly importing it in VS code or going till the folder where src file is present and open the terminal at that location and type code .(dot) in it.)
 3) Go the the terminal(ctrl + ~)).
-4) type npm install in terminal, it will create node modules folder in the project location.(I cannot upload it as it is of very large size).
+4) type npm install in terminal,it will take some time to complete. It will create node modules folder in the project location.(I cannot upload it as it is of very large size).
 5) Type ng serve to run the program 
 6) If default port is busy, then try to run the program in seaparte port.
 7) Then go to the google chrome and type localhost:4200(here 4200 is the default port being used).
